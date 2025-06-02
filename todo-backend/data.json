@@ -1,0 +1,13 @@
+[
+    { "name": "Aswin", "department": "CSE" },
+    { "name": "Keerthana", "department": "ECE" },
+    { "name": "Rahul", "department": "MECH" },
+    { "name": "Divya", "department": "EEE" },
+    { "name": "Praveen", "department": "CIVIL" },
+    { "name": "Sneha", "department": "IT" },
+    { "name": "Vignesh", "department": "CSE" },
+    { "name": "Lavanya", "department": "ECE" },
+    { "name": "Surya", "department": "MECH" },
+    { "name": "Harini", "department": "IT" }
+  ]
+  
